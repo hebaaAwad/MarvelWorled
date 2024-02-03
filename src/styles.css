@@ -1,0 +1,56 @@
+/* home */
+img{
+    width: 100%;
+}
+span{
+    color:green;
+}
+#iron{
+    width: 300px;
+}
+h2{
+    color:blue;
+}
+h4 {
+color: rgb(125, 7, 7);
+}
+p{
+    position: absolute;
+    margin-right: 30%;
+    color: rgb(125, 7, 7);
+    font-size: larger;
+}
+.info{
+    position: relative;
+    margin-left: -30%;
+    margin-top: 30%;
+   
+}
+.iron-div{
+    background-color: rgb(154, 106, 106);
+}
+i{
+    font-size: 25px;
+    color:green ;
+}
+button{
+    color: rgb(125, 7, 7);
+}
+
+.heba{
+    line-height: 2em;
+    border-radius: 16px;
+    color:green;
+    font-weight: bold;
+    font-size: 18px ;
+}
+.color-heba{
+    color:blue ;
+    font-weight: bolder ;
+    font-size: 20px;
+}
+
+.card-body{
+    background-color:rgba(125, 7, 7, 0.87);
+    color:aliceblue
+}
